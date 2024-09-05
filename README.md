@@ -1,3 +1,7 @@
+# Go to the official repo: https://github.com/apache/openserverless
+
+DO NOT USE: this repo is obsolete.
+
 # Apache OpenServerless
 
 Welcome to [Apache OpenServerless](https://cwiki.apache.org/confluence/display/INCUBATOR/OpenServerlessProposal) (also referenced as **AOS**), an incubating project at the [Apache Software Foundation](https://www.apache.org).
